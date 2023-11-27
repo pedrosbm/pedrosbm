@@ -8,4 +8,6 @@ Me contate aqui
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosbm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosbm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![My Skills](https://skillicons.dev/icons?i=git,godot,react,vite,js,html,css,spring,java,sql)](https://skillicons.dev)
