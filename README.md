@@ -12,7 +12,7 @@ Me contate aqui/ contact me here
 
 ### Principais frameworks/ main frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=vite,spring,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,spring,nextjs)](https://skillicons.dev)
 
 ### Principais linguagens/ main languages
 
