@@ -19,4 +19,4 @@ Me contate aqui/ contact me here
 
 ### outros/ others
 
-[![My Skills](https://skillicons.dev/icons?i=git,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,godot,postman)](https://skillicons.dev)
