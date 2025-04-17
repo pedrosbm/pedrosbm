@@ -8,6 +8,8 @@ Me contate aqui/ contact me here
 
 --- 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosbm&show_icons=true&theme=radical)
+
 ### Principais frameworks/ main frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,spring,nextjs)](https://skillicons.dev)
