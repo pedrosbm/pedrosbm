@@ -6,9 +6,10 @@ Me contate aqui/ contact me here
 <a href="https://www.linkedin.com/in/pedromartinazzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 
---- 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosbm&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosbm&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosbm&show_icons=true&theme=dark)
 
 ### Principais frameworks/ main frameworks
 
@@ -21,5 +22,3 @@ Me contate aqui/ contact me here
 ### outros/ others
 
 [![My Skills](https://skillicons.dev/icons?i=git,godot,postman)](https://skillicons.dev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosbm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
