@@ -17,7 +17,7 @@ Me contate aqui/ contact me here
 
 ### Principais linguagens/ main languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,java,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,java,python,postgresql)](https://skillicons.dev)
 
 ### outros/ others
 
