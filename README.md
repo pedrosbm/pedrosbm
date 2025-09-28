@@ -6,10 +6,7 @@ Me contate aqui/ contact me here
 
 ---
 
-<a href="https://github.com/pedrosbm/pedrosbm">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedrosbm&theme=dark&show_icons=true&hide=issues" />
-</a>
-<a href="https://github.com/pedrosbm/pedrosbm">
+<a href="https://github.com/pedrosbm">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosbm&layout=compact&langs_count=6&card_width=320&theme=dark" />
 </a>
 
