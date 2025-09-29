@@ -10,13 +10,13 @@ Me contate aqui/ contact me here
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosbm&layout=compact&langs_count=6&card_width=320&theme=dark" />
 </a>
 
-### Principais frameworks/ main frameworks
+### Libs/Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,spring,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,spring,nextjs,supabase,)](https://skillicons.dev)
 
 ### Principais linguagens/ main languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,java,python,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,java,python,postgresql,firebase,tailwind,)](https://skillicons.dev)
 
 ### outros/ others
 
