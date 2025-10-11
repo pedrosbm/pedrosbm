@@ -12,11 +12,11 @@ Me contate aqui/ contact me here
 
 ### Libs/Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,spring,nextjs,supabase,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,spring,nextjs,supabase,firebase,tailwind)](https://skillicons.dev)
 
 ### Principais linguagens/ main languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,java,python,postgresql,firebase,tailwind,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,java,python,postgresql)](https://skillicons.dev)
 
 ### outros/ others
 
