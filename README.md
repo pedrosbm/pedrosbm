@@ -1,5 +1,5 @@
 # Olá eu sou o pedro 👋
-### Sou um desenvolvedor web full-stack, apaixonado por programação e soluções digitais. Adoro desenvolver projetos que envolvam empresas, pessoas e qualquer cliente em potêncial, porquê tecnologia nasceu para transformar a sociedade como conhecemos e estou disposto a deixar minha marca na web!
+Sou um desenvolvedor web full-stack, apaixonado por programação e soluções digitais. Adoro desenvolver projetos que envolvam empresas, pessoas e qualquer cliente em potêncial, porquê tecnologia nasceu para transformar a sociedade como conhecemos e estou disposto a deixar minha marca na web!
 Me contate aqui/ contact me here
 
 <a href="https://www.linkedin.com/in/pedromartinazzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
