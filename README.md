@@ -1,5 +1,11 @@
-# Olá eu sou o pedro 👋
-Sou um desenvolvedor full-stack, apaixonado por programação e soluções digitais. Adoro desenvolver projetos e empreendedorismo, porquê tecnologia nasceu para transformar a sociedade como conhecemos.
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>Olá, eu sou o Pedro 👋</h1>
+      <p>Sou um desenvolvedor full-stack, apaixonado por programação e soluções digitais. Adoro desenvolver projetos e empreendedorismo, porquê tecnologia nasceu para transformar a sociedade como conhecemos.</p>
+    </td>
+  </tr>
+</table>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pedromartinazzo/" target="_blank">
@@ -8,7 +14,7 @@ Sou um desenvolvedor full-stack, apaixonado por programação e soluções digit
   <img src="https://komarev.com/ghpvc/?username=pedrosbm&label=Visitors&color=blue&style=flat-square" alt="Contador de visitantes" />
 </div>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pedrosbm&layout=compact&langs_count=6&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=pedrosbm&layout=compact&langs_count=6)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pedrosbm&layout=compact&langs_count=6&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=pedrosbm&layout=compact&langs_count=6&theme=material-palenight)
 
 ### Libs
 
