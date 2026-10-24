@@ -1,9 +1,14 @@
 # Olá eu sou o pedro 👋
-Sou um desenvolvedor full-stack, apaixonado por programação e soluções digitais. Adoro desenvolver projetos e empreendedorismo, porquê tecnologia nasceu para transformar a sociedade como conhecemos e estou disposto a deixar minha marca na web!
+Sou um desenvolvedor full-stack, apaixonado por programação e soluções digitais. Adoro desenvolver projetos e empreendedorismo, porquê tecnologia nasceu para transformar a sociedade como conhecemos.
 
-<a href="https://www.linkedin.com/in/pedromartinazzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/pedromartinazzo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=pedrosbm&label=Visitors&color=blue&style=flat-square" alt="Contador de visitantes" />
+</div>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pedrosbm&layout=compact&langs_count=6&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=pedrosbm&layout=compact&langs_count=6&theme=material-palenight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pedrosbm&layout=compact&langs_count=6&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=pedrosbm&layout=compact&langs_count=6)
 
 ### Libs
 
